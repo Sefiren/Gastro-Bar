@@ -10,7 +10,7 @@
 header {
     background-color: #813105;
     color: white;
-    padding: 15px 30px;
+    padding: 12px 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -160,7 +160,7 @@ section h2 {
 
 /* Rodapé */
 footer {
-    background-color: #3b1d0d;
+    background-color: #813105;
     color: white;
     text-align: center;
     padding: 20px;
@@ -183,4 +183,5 @@ footer {
         flex-direction: column;
     }
 }
+
 
