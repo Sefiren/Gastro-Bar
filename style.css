@@ -8,7 +8,7 @@
 
 /* Cabeçalho */
 header {
-    background-color: #813105;
+    background-color: #C5894E;
     color: white;
     padding: 10px 20px;
     display: flex;
@@ -183,3 +183,4 @@ footer {
         flex-direction: column;
     }
 }
+
